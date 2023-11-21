@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      authentication-database:
+      uri: mongodb://localhost:27017
+      database: demomongo
